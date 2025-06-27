@@ -1402,7 +1402,7 @@ display: none;
 }
 #nav-right {
   display: flex;
-width: 70%;
+width: 50%;
 justify-content: flex-end;
 align-items: flex-start;
 gap: 0.5em;
